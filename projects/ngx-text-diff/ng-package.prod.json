@@ -3,8 +3,5 @@
   "dest": "../../dist/ngx-text-diff",
   "lib": {
     "entryFile": "src/public_api.ts"
-  },
-  "whitelistedNonPeerDependencies": [
-    "diff-match-patch"
-  ]
+  }
 }
